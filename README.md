@@ -1,2 +1,2 @@
-# topology_mapping
-This is a topology mapping framework algorithm designed to map topology from a passive observer view. The algorithm performs observability analysis by calculating what a passive observer "may see"  and "should see".  
+# Passive Topology Mapping Algorithm
+This algorithm is a topology mapping framework designed to model topology from the perspective of a passive observer. It conducts observability analysis by determining what a passive observer "may see" versus what they "should see." The algorithm creates a logical network topology by using physical topology data as input. The first step involves selecting observation points in the network to act as passive observers. Next, the physical network topology is translated into an adjacency matrix, where each network interface is represented as a node and the connections between devices are depicted as edges. The algorithm then performs the observability analysis based on this model.
