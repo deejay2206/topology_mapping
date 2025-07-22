@@ -1,0 +1,7 @@
+networkx>=3.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pandas>=1.5
+pyyaml>=6.0      # If you're using YAML for topology files
+pytest>=7.0      # For testing
