@@ -23,7 +23,7 @@ This project implements a passive observer-based topology mapping framework for 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/deejay2206/topology-mapping-observer.git
-cd topology-mapping-observer
+git clone https://github.com/deejay2206/topology_mapping.git
+cd topology-mapping
 pip install -r requirements.txt
 
